@@ -27,25 +27,25 @@ const availableBeers = [
     name: 'Brooklyn Lager',
     brewery: 'Brooklyn Brewery',
     alcoholPercent: '5.2%',
-    region: 'NorthEast',
+    region: 'Northeast',
   },
   {
     name: 'Bel Air Sour',
     brewery: 'Brooklyn Brewery',
     alcoholPercent: '5.8%',
-    region: 'NorthEast'
+    region: 'Northeast'
   },
   {
-    name:
-    brewery:
-    alcoholPercent:
-    region:
+    name: 'California Craft Lager',
+    brewery: 'Mission Brewery',
+    alcoholPercent: '4.2%',
+    region: 'Southwest'
   },
   {
-    name:
-    brewery:
-    alcoholPercent:
-    region:
+    name: 'Mission Blonde',
+    brewery: 'Mission Brewery',
+    alcoholPercent: '5%',
+    region: 'Southwest'
   },
   {
     name: 'The Power of Zeus',
@@ -58,7 +58,7 @@ const availableBeers = [
     brewery: 'High Hops Brewery',
     alcoholPercent: '4.8%',
     region: 'Central'
-  },
+  }
 ]
 
 export default availableBeers;
