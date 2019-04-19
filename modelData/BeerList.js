@@ -59,6 +59,6 @@ const availableBeers = [
     alcoholPercent: '4.8%',
     region: 'Central'
   }
-]
+];
 
 export default availableBeers;

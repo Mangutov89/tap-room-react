@@ -1,7 +1,7 @@
-import React from "react";
-import PropTypes from "prop-types";
+import React from 'react';
+import PropTypes from 'prop-types';
 
-function Tap(){
+function Tap(props){
   return (
     <div>
       <h3>{props.name}</h3>
@@ -10,7 +10,7 @@ function Tap(){
       <p>Brewed from this region: {props.region}</p>
       <hr/>
     </div>
-   );
+  );
 }
 
 Tap.propTypes = {

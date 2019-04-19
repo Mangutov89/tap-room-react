@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 
 function Header(){
@@ -15,6 +15,7 @@ function Header(){
           padding: 25px 0;
         }
       `}
+      </style>
       <h1>PDX Tap List</h1>
     </div>
   );
