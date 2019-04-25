@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 bef4b0c3904195fc87640cee0fa62b493d297225 lm <leo.mangutov@gmail.com> 1555691734 -0700	commit (initial): did my stech of components, but when i tried to add react in apm it wouldnt work so i did some research to try and solve it, add initial files
+bef4b0c3904195fc87640cee0fa62b493d297225 e8a1ae2279702c0c63125a898455684bbb21c637 lm <leo.mangutov@gmail.com> 1555692853 -0700	commit: add tap list and tap components
+e8a1ae2279702c0c63125a898455684bbb21c637 a02192137c11888181fc152d108f636524ed6ca0 lm <leo.mangutov@gmail.com> 1555694749 -0700	commit: add beerlist data
+a02192137c11888181fc152d108f636524ed6ca0 754f0b5bc382ef96c486aed2155964cb2a9e02cb lm <leo.mangutov@gmail.com> 1555696308 -0700	commit: added more beers to data
+754f0b5bc382ef96c486aed2155964cb2a9e02cb 1dd221ba3e9f17181ea19b71a0d2168c0b77abc5 lm <leo.mangutov@gmail.com> 1555698632 -0700	commit: add new category
+1dd221ba3e9f17181ea19b71a0d2168c0b77abc5 d4cd19f0b45ba5e10c511de25ab909f9b3ed8518 lm <leo.mangutov@gmail.com> 1555699347 -0700	commit: add props to tap component
+d4cd19f0b45ba5e10c511de25ab909f9b3ed8518 e829bbdec253bbb910bdb3ad293b6ddc73cf7495 lm <leo.mangutov@gmail.com> 1555701730 -0700	commit: add styling to header
+e829bbdec253bbb910bdb3ad293b6ddc73cf7495 690fac5d105e95b89250ca7c6bcdcd4ef5b31060 lm <leo.mangutov@gmail.com> 1555709390 -0700	commit: git wasnt working properly had to fix the issue, added a loop to loop thru the beer list
+690fac5d105e95b89250ca7c6bcdcd4ef5b31060 2937c236894c20dd52c869e48a4e6e59db1d6a20 lm <leo.mangutov@gmail.com> 1555710899 -0700	commit: add styles to tap component
+2937c236894c20dd52c869e48a4e6e59db1d6a20 a3e4d3d6a372438020c744ef97fba8c7928c5cd4 lm <leo.mangutov@gmail.com> 1555712311 -0700	commit: add about component and styled it

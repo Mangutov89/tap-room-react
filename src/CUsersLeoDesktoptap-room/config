@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "lm"]
+	url = https://github.com/Mangutov89/tap-room-react.git
+	fetch = +refs/heads/*:refs/remotes/lm/*
